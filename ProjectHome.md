@@ -1,0 +1,1 @@
+AnkhSVN connector that enables integration with MantisBT inside Visual Studio.
